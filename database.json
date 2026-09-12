@@ -1,0 +1,149 @@
+{
+  "personal": {
+    "name": "Pradnya Adkonkar",
+    "role": "FY BA Student",
+    "tagline": "Aspiring Business Professional | Curious Learner | Future Entrepreneur",
+    "location": "Goa, India",
+    "email": "pradnyadkonkar08@gmail.com",
+    "phone": "+91 7020572048",
+    "profileImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=500",
+    "resume": "#",
+    "about": "I am a first-year BA student with an interest in marketing, finance, entrepreneurship, and technology. I enjoy learning how businesses work, working on practical projects, and developing skills that can help me grow professionally."
+  },
+
+  "socials": {
+    "linkedin": "https://www.linkedin.com/",
+    "github": "https://github.com/",
+    "instagram": "https://www.instagram.com/"
+  },
+
+  "education": [
+    {
+      "degree": "Bachelor of Business Administration (BBA)",
+      "institution": "Your College / University Name",
+      "location": "Goa, India",
+      "duration": "2026 - 2029",
+      "description": "Currently pursuing my first year of BBA with a focus on developing a strong foundation in business, management, economics, accounting, and communication."
+    },
+    {
+      "degree": "Higher Secondary Education",
+      "institution": "Your School Name",
+      "location": "Goa, India",
+      "duration": "2024 - 2026",
+      "description": "Completed higher secondary education with an interest in commerce and business-related subjects."
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Communication",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "Beginner"
+    },
+    {
+      "name": "PowerPoint",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Digital Marketing",
+      "level": "Beginner"
+    },
+    {
+      "name": "Financial Analysis",
+      "level": "Beginner"
+    },
+    {
+      "name": "HTML & CSS",
+      "level": "Beginner"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Beginner"
+    },
+    {
+      "name": "Public Speaking",
+      "level": "Intermediate"
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Business Case Study",
+      "category": "Academic Project",
+      "description": "Analysed a real-world business and studied its business model, target audience, competitors, strengths, and growth opportunities.",
+      "technologies": [
+        "PowerPoint",
+        "Excel",
+        "Research"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "Digital Marketing Campaign",
+      "category": "Personal Project",
+      "description": "Created a hypothetical digital marketing campaign for a small business, including target audience research, content ideas, and social media strategy.",
+      "technologies": [
+        "Canva",
+        "Social Media",
+        "Marketing"
+      ],
+      "link": "#"
+    },
+    {
+      "title": "Personal Portfolio Website",
+      "category": "Web Project",
+      "description": "Designed and developed a responsive personal portfolio website using HTML, CSS, JavaScript, and JSON.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "JSON"
+      ],
+      "link": "#"
+    }
+  ],
+
+  "experience": [
+    {
+      "position": "Student",
+      "organization": "Your College / University",
+      "duration": "2026 - Present",
+      "description": "Participating in academic activities, presentations, group projects, and student events while developing business and communication skills."
+    }
+  ],
+
+  "achievements": [
+    {
+      "title": "Academic Achievement",
+      "description": "Placeholder for an academic achievement, competition, scholarship, or award."
+    },
+    {
+      "title": "College Event Participation",
+      "description": "Participated in a college-level event, presentation, competition, or workshop."
+    },
+    {
+      "title": "Certification",
+      "description": "Placeholder for an online course or professional certification."
+    }
+  ],
+
+  "interests": [
+    "Entrepreneurship",
+    "Marketing",
+    "Finance",
+    "Technology",
+    "Startups",
+    "Reading",
+    "Public Speaking"
+  ],
+
+  "contact": {
+    "heading": "Let's Connect",
+    "description": "I'm always open to connecting with fellow students, professionals, mentors, and people interested in business and technology.",
+    "email": "aarav.sharma@example.com"
+  }
+}
+  
